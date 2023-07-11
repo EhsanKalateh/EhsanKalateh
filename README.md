@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EhsanKalateh
-- 👀 I’m interested in Data, Medicine, Blockchain, Python, ML
+<!--- - 👀 I’m interested in Data, Medicine, Blockchain, Python, ML
 - 🌱 I’m currently learning Python, Pandas
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me Telegram: @Ehsan_Kalateh
 
 <!---
